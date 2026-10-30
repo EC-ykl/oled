@@ -1,0 +1,18 @@
+# STM32/C 编译产物
+build/
+*.o
+*.d
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.su
+
+# C++ 可执行文件
+*.exe
+*.out
+
+# VS Code 配置文件
+.vscode/
+Drivers/
